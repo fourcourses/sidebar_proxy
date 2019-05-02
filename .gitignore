@@ -59,3 +59,9 @@ typings/
 
 # next.js build output
 .next
+
+# New Relic Config
+newrelic.config.js
+
+# Stress Test Files
+server/k6StressTestingProxy.js
